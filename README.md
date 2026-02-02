@@ -5,8 +5,8 @@ This project performs an A/B test analysis on a marketing dataset to evaluate wh
 Using statistical hypothesis testing, the project determines if the observed difference in conversion rates is statistically significant, enabling data-driven marketing decisions.
 
 ## Dataset
-Name: Marketing A/B Testing Dataset
-File: marketing_AB.csv
+- Name: Marketing A/B Testing Dataset
+- File: marketing_AB.csv
 
 ## Key Columns
 
