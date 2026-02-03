@@ -1,0 +1,14 @@
+
+A/B Testing Results – Marketing Campaign
+
+Control Group (PSA) Conversion Rate: 0.0179
+Treatment Group (Ad) Conversion Rate: 0.0255
+Difference: 0.0077
+P-value: 0.000000
+95% Confidence Interval: (0.0060, 0.0094)
+
+Decision:
+Reject Null Hypothesis
+
+Business Recommendation:
+Run Ad campaign permanently as it significantly improves conversions.
